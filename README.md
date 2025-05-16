@@ -32,7 +32,6 @@ Bienvenue dans **Salomon Store**, une application e-commerce moderne construite 
 
 ## ⚙️ Installation locale
 
-1. **Cloner le projet :**
 
 ```bash
 git clone https://github.com/votre-utilisateur/salomon-store.git
